@@ -1,0 +1,47 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background: rgb(45 108 135 / 78%);
+  height: 60vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  text-align: center;
+  text-shadow: 2px 2px 10px rgb(67, 44, 44);
+  padding-bottom: 40px;
+}
+.quotes-box {
+  background-color: rgb(70 134 183 / 67%);
+  padding: 20px;
+  box-shadow: 5px 5px 25px black;
+  border-radius: 8px;
+}
+.quotes-text {
+  margin-bottom: 10px;
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+  color: whitesmoke;
+}
+.quotes-control {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+.quotes-btn {
+  font-size: large;
+  padding: 10px;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  background: rgba(5, 29, 70, 0.753);
+  color: whitesmoke;
+  transition: all 0.5s ease-in;
+}
+.quotes-btn:hover {
+  background: rgb(5, 29, 70);
+}
