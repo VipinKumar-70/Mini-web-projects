@@ -25,4 +25,5 @@ All the projects source code are free and will always remain so.
 ## Projects Included
 
 1.**Random Quotes Generator**: This is the basic application that show you how you can used API to fetch data from the server. you learn how fetch() method is work with API.
+-Technologies used: HTML, CSS, Javascript. -[Random Quotes Generator](#). 2.**TO-Do List**: This is the basic application that show you how you can used API to fetch data from the server. you learn how fetch() method is work with API.
 -Technologies used: HTML, CSS, Javascript. -[Random Quotes Generator](#)
