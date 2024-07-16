@@ -7,36 +7,11 @@ All the projects source code are free and will always remain so.
 
 # Topic to learn before building project:
 
-1. **HTML**: HTML (HyperText Markup Language) is used to create the basic structure of a website. Here are the essential topics to cover:
+1. **HTML**: HTML (HyperText Markup Language) is the standard markup language used for creating and structuring web pages and web applications. It defines the structure of content on a web page by using a system of tags and attributes, which are interpreted by web browsers to render text, images, multimedia, and interactive elements to users.
 
-Basic Tags: Understand common HTML tags like <html>, <head>, <body>, <div>, <span>, <a>, <img>, <ul>, <ol>, <li>, <table>, <tr>, <td>, etc.
-Forms: Learn about form elements like <form>, <input>, <textarea>, <button>, <select>, <option>, and how to create and handle forms.
-Semantic HTML: Understand the use of semantic elements like <header>, <nav>, <main>, <section>, <article>, <aside>, <footer>.
-Attributes: Learn about HTML attributes such as id, class, src, href, alt, title, style, data-\* attributes.
-HTML5 New Features: Explore new HTML5 elements like <video>, <audio>, <canvas>, <progress>, and form input types like email, tel, url, number, date, etc.
+2. **CSS**: CSS (Cascading Style Sheets) is a stylesheet language used to describe the presentation of a document written in HTML or XML. It defines how elements are displayed on a web page, including their layout, colors, fonts, and sizes. CSS enables web designers and developers to separate the structure and content of a web page from its visual presentation, allowing for greater flexibility and control over the appearance of multiple web pages at once. By applying CSS rules to HTML elements, designers can create visually appealing and responsive layouts that adapt to different devices and screen sizes.
 
-2. **CSS**:CSS (Cascading Style Sheets) is used to style and layout web pages. Important topics include:
-
-Selectors: Learn about basic selectors, combinator selectors, pseudo-class selectors, and pseudo-element selectors.
-Box Model: Understand the box model concept, including margin, border, padding, and content.
-Flexbox: Learn about the Flexbox layout model for creating responsive designs.
-Grid Layout: Understand CSS Grid for creating complex grid-based layouts.
-Responsive Design: Learn techniques like media queries to make web pages responsive.
-CSS3 Features: Explore new CSS3 features such as transitions, animations, transforms, and custom properties (CSS variables).
-
-3. **JavaScript**
-   Basic topic
-   -DOM Method
-   -Event Listener
-   -Arrow Function
-   -Template Literals
-   -function
-
-Advance topic covered
--JSON file
--Fetch() Method
--Error handling
--Asynchronous Javascript (async/await)
+3. **JavaScript**: JavaScript (JS) is a high-level, interpreted programming language primarily used for creating dynamic and interactive content on web pages. It was originally developed to run in web browsers, allowing developers to manipulate the Document Object Model (DOM), handle events, and communicate asynchronously with servers using AJAX. JavaScript is versatile, supporting both procedural and object-oriented programming paradigms. It has evolved significantly with the introduction of ECMAScript standards, enhancing capabilities such as modern syntax features, modules, and asynchronous programming with Promises and async/await. JavaScript is now widely used not only for web development but also for server-side development (Node.js), mobile app development, and even desktop applications.
 
 ## Table of Contents
 
