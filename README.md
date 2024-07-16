@@ -24,6 +24,16 @@ All the projects source code are free and will always remain so.
 
 ## Projects Included
 
-1.**Random Quotes Generator**: This is the basic application that show you how you can used API to fetch data from the server. you learn how fetch() method is work with API.
--Technologies used: HTML, CSS, Javascript. -[Random Quotes Generator](#).
+### Random Quotes Generator
 
+This is a basic application that shows how to use an API to fetch data from a server. You will learn how the fetch() method works with APIs. In this project, data is fetched from the API and stored in JSON format. The API provides five random quotes each time you click the "Show Quotes" button. You can also navigate among these five quotes using the "Previous" and "Next" buttons.
+
+- **Technologies used**: HTML, CSS, JavaScript
+- [Random Quotes Generator](#)
+
+### Javascript TO-DO List
+
+This project helps you create a simple to-do list application using JavaScript. You will learn how to add, delete, and mark tasks as completed. This project is an excellent way to understand how to manipulate the DOM (Document Object Model) using JavaScript.
+
+- **Technologies used**: HTML, CSS, JavaScript
+- [JavaScript TO-DO List](#)
