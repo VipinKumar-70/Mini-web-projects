@@ -12,7 +12,7 @@ All the projects source code are free and will always remain so.
 - [Topic to learn before building project](#topic-to-learn-before-building-project)
 - [Projects Included](#projects-included)
   - [Random Quotes Generator](#random-quotes-generator)
-  - [TO-DO List](#tODO-list)
+  - [TODO List](#tODO-list)
   - [Random Password Generator](#Random-Password-Generator)
 
 <!-- omit in toc -->
