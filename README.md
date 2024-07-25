@@ -12,7 +12,7 @@ All the projects source code are free and will always remain so.
 - [Topic to learn before building project](#topic-to-learn-before-building-project)
 - [Projects Included](#projects-included)
   - [Random Quotes Generator](#random-quotes-generator)
-  - [TODO List](#TODO-List)
+  - [Javascript TODO List](#Javascript-TO-DO-List)
   - [Random Password Generator](#Random-Password-Generator)
 
 <!-- omit in toc -->
@@ -41,7 +41,7 @@ This is a basic application that shows how to use an API to fetch data from a se
 3. **JSON Data Handling:** Fetches and processes data in JSON format for easy use and display.
 4. **Navigation Controls:** Allows users to browse through quotes using "Previous" and "Next" buttons for a seamless experience.
 
-### Javascript TODO List
+### Javascript TO-DO List
 
 This project helps you create a simple to-do list application using JavaScript. You will learn how to add, delete, and mark tasks as completed. This project is an excellent way to understand how to manipulate the DOM (Document Object Model) using JavaScript.
 
