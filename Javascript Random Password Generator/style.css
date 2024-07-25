@@ -1,0 +1,81 @@
+body {
+  background-color: #0a0e30db;
+  display: grid;
+  place-items: center;
+  color: #fff;
+  font-size: 1.3rem;
+  font-style: italic;
+}
+
+.container {
+  background-color: #0a0e30;
+  padding: 15px;
+  border-radius: 8px;
+  margin-top: 40px;
+}
+
+.container-element {
+  margin: 10px 0px;
+}
+
+.box-flex,
+.passtype {
+  display: flex;
+  flex-direction: column;
+}
+
+.passtype li {
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+  padding: 8px 10px;
+}
+
+.element-box {
+  padding: 10px 0px;
+  border-radius: 5px;
+  border: none;
+  background-color: #292e58;
+  margin-block: 5px;
+}
+
+input[type="range"] {
+  -webkit-appearance: none;
+  background-color: #292e58;
+  border-radius: 5px;
+  height: 3px;
+  width: 80%;
+}
+
+.range-ele {
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
+input[type="text"] {
+  font-size: large;
+  color: #fff;
+  padding: 10px 10px;
+  text-align: center;
+}
+input[type="text"]::after {
+  content: "#";
+}
+
+#passwordbtn {
+  background-color: #6d65c9;
+  border-radius: 5px;
+  padding: 10px;
+  border: none;
+  cursor: pointer;
+  color: #fff;
+  font-size: 1.3rem;
+  font-weight: bold;
+  font-style: italic;
+  transition: all 0.3s ease;
+  margin: 8px 0px;
+}
+#passwordbtn:hover {
+  background-color: #7c73dd9e;
+}

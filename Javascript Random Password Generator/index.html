@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="container">
+        <h1 style="font-size: 2.2rem;">Random Password Generator</h1>
+        <div class="container-element box-flex">
+            <span style="font-size: 15px;">Password</span>
+            <input class="element-box" type="text" placeholder="Click Generate Password" id="passwordbox">
+        </div>
+        <div class="container-element">
+            <span style="font-size: 15px;">Length:<span id="pass-length">6</span></span>
+            <div class="box-flex range-ele">
+                <span>4</span>
+                <input type="range" min="4" max="32" name="pass-max" id="pass-max" value="6">
+                <span>32</span>
+            </div>
+        </div>
+        <div class="container-element">
+            <span style="font-size: 15px;">Setting</span>
+            <div class="passtype">
+                <li class="element-box">Include Uppercase<input type="checkbox" name="checkbox" id="uppercase"></li>
+                <li class="element-box">Include lowercase<input type="checkbox" name="checkbox" id="lowercase"></li>
+                <li class="element-box">Include number<input type="checkbox" name="checkbox" id="number"></li>
+                <li class="element-box">Include Symbols<input type="checkbox" name="checkbox" id="symbols"></li>
+                <button id="passwordbtn">Generate Password</button>
+            </div>
+        </div>
+    </div>
+</body>
+<script src="password.js"></script>
+
+</html>
