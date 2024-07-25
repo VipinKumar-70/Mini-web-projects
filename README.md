@@ -11,6 +11,9 @@ All the projects source code are free and will always remain so.
 
 - [Topic to learn before building project](#topic-to-learn-before-building-project)
 - [Projects Included](#projects-included)
+  - [Random Quotes Generator](#random-quotes-generator)
+  - [TO-DO List](#TO-DO-list)
+  - [Random Password Generator](#Random-Password-Generator)
 
 <!-- omit in toc -->
 
@@ -37,3 +40,16 @@ This project helps you create a simple to-do list application using JavaScript. 
 
 - **Technologies used**: HTML, CSS, JavaScript
 - [JavaScript TO-DO List](#)
+
+### Random Password Generator
+
+This project is a customizable random password generator built with HTML, CSS, and JavaScript. Users can tailor their passwords with options for numbers, symbols, uppercase, and lowercase letters, as well as select the desired length. Perfect for enhancing security, it offers an intuitive interface for generating strong, personalized passwords.
+**This project covers essential aspects of password generation, including:**
+
+1. Customizable Password Features: Options to include numbers, symbols, uppercase, and lowercase letters.
+2. User-defined Length: Flexibility to set the desired length of the generated password.
+3. User Interface Design: A clean and intuitive design for an enhanced user experience.
+4. Security Best Practices: Emphasis on generating strong, unique passwords to improve online security.
+
+- **Technologies used**: HTML, CSS, JavaScript
+- [Random Password Generator](#)
