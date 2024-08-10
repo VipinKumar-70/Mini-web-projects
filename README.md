@@ -14,6 +14,7 @@ All the projects source code are free and will always remain so.
   - [Random Quotes Generator](#random-quotes-generator)
   - [Javascript TODO List](#Javascript-TO-DO-List)
   - [Random Password Generator](#Random-Password-Generator)
+  - [Javascript weather Application](#Javascript-weather-Application)
 
 <!-- omit in toc -->
 
@@ -36,10 +37,10 @@ This is a basic application that shows how to use an API to fetch data from a se
 
 **This project highlights the following features:**
 
-1. **API Integration:** Utilizes the fetch() method to retrieve data from a server, demonstrating basic API usage.
-2. **Dynamic Data Fetching:** Retrieves five random quotes each time the "Show Quotes" button is clicked.
-3. **JSON Data Handling:** Fetches and processes data in JSON format for easy use and display.
-4. **Navigation Controls:** Allows users to browse through quotes using "Previous" and "Next" buttons for a seamless experience.
+1. **API Integration:** The application utilizes the fetch() method to connect with an API, showcasing basic API usage for retrieving data from a server.
+2. **Dynamic Data Fetching:** Every time the "Show Quotes" button is clicked, the application fetches five random quotes from the API.
+3. **JSON Data Handling:** The fetched data is processed and stored in JSON format, which is then used to dynamically update the content on the page.
+4. **Navigation Controls:** Users can easily navigate through the fetched quotes using "Previous" and "Next" buttons, providing a seamless browsing experience.
 
 ### Javascript TO-DO List
 
@@ -68,3 +69,14 @@ This project is a customizable random password generator built with HTML, CSS, a
 2. **Event Handling:** Implement event listeners to handle user inputs and interactions, such as button clicks and setting preferences.
 3. **Randomization Logic:** Apply algorithms to ensure randomness in the generated passwords, enhancing security and Options to include numbers, symbols, uppercase, and lowercase letters.
 4. **User Interface Design:** A clean and intuitive design for an enhanced user experience.
+
+### JavaScript Weather Application
+
+This JavaScript Weather Application allows users to search for and view current weather conditions in any city. The application is built using HTML, CSS, and JavaScript, and leverages the OpenWeather API to fetch real-time weather data.
+
+- **Technologies Used**:
+  - **HTML & CSS**: For structuring and styling the user interface.
+  - **JavaScript**: For application logic and DOM manipulation.
+- **Fetch API**: The application uses the Fetch API to make asynchronous HTTP requests to the OpenWeather API, retrieving data such as temperature, weather conditions, and corresponding icons.
+
+- **DOM Manipulation**: JavaScript is used to dynamically update the content on the page based on user input and the data fetched from the API. This includes displaying the weather information and adjusting the UI elements accordingly.
