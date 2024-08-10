@@ -13,7 +13,6 @@ async function getWeatherData(city) {
     `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${API_key}&units=metric`
   );
   const data = await response.json();
-  // console.log(data);
   showWeather(data);
 }
 
